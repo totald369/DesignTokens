@@ -1,0 +1,40 @@
+{
+  "Spacing": {
+    "XXXS": {
+      "value": "2",
+      "type": "spacing"
+    },
+    "XXS": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "XS": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "S": {
+      "value": "12",
+      "type": "spacing"
+    },
+    "M": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "L": {
+      "value": "24",
+      "type": "spacing"
+    },
+    "XL": {
+      "value": "32",
+      "type": "spacing"
+    },
+    "XXL": {
+      "value": "40",
+      "type": "spacing"
+    },
+    "XXXL": {
+      "value": "48",
+      "type": "spacing"
+    }
+  }
+}
